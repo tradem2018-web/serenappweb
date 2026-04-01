@@ -29,6 +29,11 @@ export const translations = {
         name: "Tra cứu Địa chỉ",
         desc: "Công cụ tra cứu địa chỉ hành chính sau sáp nhập năm 2026 tại Việt Nam. Cập nhật dữ liệu chính xác và nhanh chóng.",
         features: ["Dữ liệu mới nhất 2026", "Tìm kiếm thông minh", "Bản đồ tích hợp"]
+      },
+      hennhe: {
+        name: "Hẹn Nhé - Nhắc Lịch Việt",
+        desc: "Ứng dụng báo thức & quản lý lịch hẹn thông minh dành riêng cho người Việt. Tích hợp lịch âm, báo thức nhóm và trò chuyện.",
+        features: ["Báo thức thông minh", "Tích hợp lịch âm", "Báo thức nhóm & Trò chuyện"]
       }
     },
     security: {
@@ -92,6 +97,11 @@ export const translations = {
         name: "Address Lookup",
         desc: "Administrative address lookup tool after the 2026 mergers in Vietnam. Accurate and fast data updates.",
         features: ["Latest 2026 Data", "Smart Search", "Integrated Maps"]
+      },
+      hennhe: {
+        name: "HenNhe - Vietnam Scheduler",
+        desc: "Smart alarm & appointment management app specifically for Vietnamese users. Integrated lunar calendar, group alarms, and chat.",
+        features: ["Smart Alarm", "Lunar Calendar Integration", "Group Alarms & Chat"]
       }
     },
     security: {

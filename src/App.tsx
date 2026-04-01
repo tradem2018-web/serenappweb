@@ -12,6 +12,7 @@ import {
   Lock, 
   Mail, 
   Globe, 
+  Bell,
   ChevronRight, 
   CheckCircle2, 
   ExternalLink,
@@ -198,6 +199,16 @@ export default function App() {
               color="emerald"
               link="https://tracuudiachi.online"
               index={2}
+            />
+            {/* HenNhe */}
+            <AppCard 
+              icon={<Bell className="text-amber-500" size={32} />}
+              name={t.apps.hennhe.name}
+              desc={t.apps.hennhe.desc}
+              features={t.apps.hennhe.features}
+              color="amber"
+              link="https://hennhe.netlify.app/"
+              index={3}
             />
           </div>
         </div>
